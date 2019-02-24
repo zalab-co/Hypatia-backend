@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+.vscode/settings.json
+client_secret.json
+creds.*
+.serverless
+*.pyc
+*.pyo
+node_modules
